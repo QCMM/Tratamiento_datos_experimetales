@@ -1,2 +1,4 @@
-# Tratamiento_datos_experimetales
-Material y jupyter notebooks para la asignatura 
+# Tratamiento de Datos Experimetales (530.307)
+
+
+Material y jupyter notebooks adicionales para la asignatura 
